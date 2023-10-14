@@ -1,0 +1,12 @@
+lighthouse audit 
+**get rid of images for text**
+**images missing alt atrs
+*Images* resizing
+--*Images* web-optimized formats? .webp, etc.? Or is .png okay?
+**google maps needed? *no**
+**boostrap needed? *yes, cdn**
+source set
+SEO audit tool
+code splitting with boostrap (import partial library)
+async/defer for cdns
+Remove sass
