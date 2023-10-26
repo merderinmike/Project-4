@@ -1,12 +1,14 @@
-lighthouse audit 
-**get rid of images for text**
-**images missing alt atrs
-*Images* resizing
---*Images* web-optimized formats? .webp, etc.? Or is .png okay?
-**google maps needed? *no**
-**boostrap needed? *yes, cdn**
-source set
-SEO audit tool
-code splitting with boostrap (import partial library)
-async/defer for cdns
-Remove sass
+[x]lighthouse audit 
+[x]**get rid of images for text**
+[x]**images missing alt atrs
+[x]*Images* resizing
+[x]--*Images* web-optimized formats? .webp, etc.? Or is .png okay?
+[x]**google maps needed? *no**(getting error on audit)
+[x]**boostrap needed? *yes, cdn** (Completed but broke layout)
+[]source set
+[]SEO audit tool
+[x]code splitting with boostrap (import partial library)
+[]async/defer for cdns?
+[x]Remove sass
+[]Fontawesome cdn **only using fontawesome for social media icons, need to look into the et icons
+[x]Importing modules?
