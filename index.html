@@ -14,12 +14,12 @@
 			name="viewport"
 			content="width=device-width, initial-scale=1.0, viewport-fit=cover"
 		/>
+		<link rel="canonical" href="./index.html" />
 		<link rel="shortcut icon" type="image/png" href="favicon.jpg" />
 
 		<!-- <link rel="stylesheet" type="text/css" href="./css/bootstrap.css" /> -->
 		<link rel="stylesheet" type="text/css" href="style.css" />
 		<link rel="stylesheet" type="text/css" href="./css/et-line.css" />
-		<!-- Better to use CDN or load in full stylesheets? -->
 
 		<!--JQuery-->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
@@ -30,29 +30,14 @@
 			href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
 		/>
 		<!-- Font Awesome -->
-		<link
-			rel="stylesheet"
-			href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css"
-			integrity="sha384-QYIZto+st3yW+o8+5OHfT6S482Zsvz2WfOzpFSXMF9zqeLcFV0/wlZpMtyFcZALm"
-			crossorigin="anonymous"
-		/>
 		<script
 			src="https://kit.fontawesome.com/f06d1b7415.js"
 			crossorigin="anonymous"
 		></script>
-		<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> -->
-
-		<!-- <script src="./js/jquery-2.1.0.js"></script> -->
-		<!-- <script src="./js/bootstrap.js"></script> -->
 		<script src="./js/blocs.js"></script>
 		<script src="./js/jquery.touchSwipe.js"></script>
-		<!-- <script src="./js/gmaps.js"></script> -->
 
-		<title>.</title>
-
-		<!-- Analytics -->
-
-		<!-- Analytics END -->
+		<title>Go Mike Designs</title>
 	</head>
 	<body>
 		<!-- Main container -->
@@ -69,12 +54,13 @@
 								web agency atlanta, web strategy, web design,
 								logo, website, web, internet, logo design
 							</div>
-							<a class="navbar-brand" href="index.html"
-								><img
+							<a class="navbar-brand" href="index.html">
+								<img
 									src="img/atlanta-web-design-logo.webp"
 									alt="logo, seo, google, website, internet, web design, design agency"
 									height="40"
-							/></a>
+								/>
+							</a>
 							<div
 								class="keywords"
 								style="color: #cccccc; font-size: 1px"
@@ -122,18 +108,32 @@
 				<div class="container bloc-lg">
 					<div class="row tight-width-whitespace">
 						<div class="col-sm-12">
-							<img
-								src="img/atlanta-web-designer-mike.webp"
-								class="center-block image-resize-mode"
-								width="100"
-								alt="atlanta web designer mike,seo, google, website, internet, web design, design agency"
-							/>
+							<picture>
+								<source
+									media="(max-width:400px)"
+									srcset="
+										img/atlanta-web-designer-mike(1).webp
+									"
+								/>
+								<source
+									media="(max-width:768px)"
+									srcset="
+										img/atlanta-web-designer-mike(2).webp
+									"
+								/>
+								<img
+									src="img/atlanta-web-designer-mike.webp"
+									class="center-block image-resize-mode"
+									width="100"
+									alt="atlanta web designer mike,seo, google, website, internet, web design, design agency"
+								/>
+							</picture>
 							<h1 class="text-center hero-bloc-text tc-white">
 								I'm Mike.
 							</h1>
 							<div class="text-center">
 								<a
-									href="page2.html"
+									href="page2.html/"
 									class="btn btn-lg btn-clean btn-rd cta-hero btn-atomic-tangerine"
 									id="cta-hero"
 									>Contact</a
@@ -150,12 +150,12 @@
 				<div class="container bloc-md">
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<h1 class="title">
+							<p class="title">
 								I create websites and design graphics that
 								help<br />
 								Atlanta companies become attractive and
 								recognizable online.
-							</h1>
+							</p>
 						</div>
 					</div>
 					<div class="row voffset-lg med-width-whitespace">
@@ -165,9 +165,9 @@
 									class="et-icon-browser sm-shadow icon-dark-slate-blue icons icon-lg"
 								></span>
 							</div>
-							<h1 class="mg-md text-center service-header">
+							<p class="mg-md text-center service-header">
 								Website Design
-							</h1>
+							</p>
 							<p class="text-center">
 								Whether you have a website that needs a refresh
 								or you&rsquo;re starting from scratch,
@@ -181,9 +181,9 @@
 									class="et-icon-presentation sm-shadow icon-dark-slate-blue icons icon-lg"
 								></span>
 							</div>
-							<h1 class="mg-md text-center service-header">
+							<p class="mg-md text-center service-header">
 								&nbsp;Website Strategy
-							</h1>
+							</p>
 							<p class="text-center">
 								Rather than suggesting trendy designs,
 								I&rsquo;ll work with you to understand your
@@ -197,9 +197,9 @@
 									class="et-icon-edit sm-shadow icon-dark-slate-blue icons icon-lg"
 								></span>
 							</div>
-							<h1 class="mg-md text-center service-header">
+							<p class="mg-md text-center service-header">
 								Logo Design
-							</h1>
+							</p>
 							<p class="text-center">
 								With your business representing Atlanta, your
 								logo should shine. I&rsquo;ll work with you to
@@ -212,7 +212,7 @@
 						<div
 							class="col-xs-12 col-md-8 col-md-offset-2 text-center"
 						>
-							<h5 class="quote">
+							<p class="quote">
 								<i
 									>"Mike's an awesome
 									<b>freelance web designer!</b> He captured
@@ -221,7 +221,7 @@
 									<b>double our online sales</b> for our shop
 									in <br />Altlanta."<br /></i
 								>Taylor Cook, project manager Apple Delights
-							</h5>
+							</p>
 						</div>
 					</div>
 				</div>
@@ -236,12 +236,12 @@
 				<div class="container bloc-lg">
 					<div class="row tight-width-whitespace black-background">
 						<div class="col-sm-12">
-							<h2 class="mg-md text-center tc-white">
+							<p class="mg-md text-center tc-white">
 								I love Atlanta, my hometown, and want to see all
 								Atlanta businesses succeed. I help by offering
 								web design services that help local businesses
 								stand out and attract new customers online.<br />
-							</h2>
+							</p>
 							<p class="text-center white">
 								I'm super excited you&rsquo;re here. I partner
 								with creative entrepreneurs and local Atlanta
@@ -270,11 +270,11 @@
 				<div class="container bloc-lg">
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<h1>
+							<p>
 								Websites I've designed and developed for Atlanta
 								companies <br />
 								that resulted in more local business
-							</h1>
+							</p>
 						</div>
 					</div>
 					<div class="row tight-width-whitespace portfolio-row">
@@ -285,14 +285,26 @@
 								data-gallery-id="gallery-1"
 								data-caption="Website for Atlanta's Premiere dog salon"
 								data-frame="snapshot-lb"
-								><img
-									src="img/11.webp"
-									class="img-responsive portfolio-thumb"
-									alt="seo, google, website, internet, web design, design agency website for dog salon"
-							/></a>
-							<h3 class="mg-md text-center">
+							>
+								<picture>
+									<source
+										media="(max-width:400px)"
+										srcset="img/11(1).webp"
+									/>
+									<source
+										media="(max-width:768px)"
+										srcset="img/11(2).webp"
+									/>
+									<img
+										src="img/11.webp"
+										class="img-responsive portfolio-thumb"
+										alt="seo, google, website, internet, web design, design agency website for dog salon"
+									/>
+								</picture>
+							</a>
+							<p class="mg-md text-center">
 								Website for Atlanta&rsquo;s premiere Dog Sitters
-							</h3>
+							</p>
 							<p class="text-center">
 								I love dogs and was super excited to make a
 								website for an Atlanta dog company.
@@ -305,14 +317,26 @@
 								data-gallery-id="gallery-1"
 								data-caption="web redesign for the best cupcakes in Atlanta"
 								data-frame="snapshot-lb"
-								><img
-									src="img/2.webp"
-									class="img-responsive portfolio-thumb"
-									alt="seo, google, website, internet, web design, design agency website for best cupcakes in atlanta"
-							/></a>
-							<h3 class="mg-md text-center">
+							>
+								<picture>
+									<source
+										media="(max-width:400px)"
+										srcset="img/2(1).webp"
+									/>
+									<source
+										media="(max-width:768px )"
+										srcset="img/2(2).webp"
+									/>
+									<img
+										src="img/2.webp"
+										class="img-responsive portfolio-thumb"
+										alt="seo, google, website, internet, web design, design agency website for best cupcakes in atlanta"
+									/>
+								</picture>
+							</a>
+							<p class="mg-md text-center">
 								Web redesign for the best Atlanta&nbsp;cupcakes
-							</h3>
+							</p>
 							<p class="text-center">
 								They make the best cupcakes in Atlanta and I
 								wanted to show this online.
@@ -327,15 +351,27 @@
 								data-gallery-id="gallery-1"
 								data-caption="New logo and website for Atlanta's best tech gear shop"
 								data-frame="snapshot-lb"
-								><img
-									src="img/3.avif"
-									class="img-responsive portfolio-thumb"
-									alt="3.jpg"
-							/></a>
-							<h3 class="mg-md text-center">
+							>
+								<picture>
+									<source
+										media="(max-width:400px)"
+										srcset="img/3(1).webp"
+									/>
+									<source
+										media="(max-width:768px)"
+										srcset="img/3(2).webp"
+									/>
+									<img
+										src="img/3.webp"
+										class="img-responsive portfolio-thumb"
+										alt="3.jpg"
+									/>
+								</picture>
+							</a>
+							<p class="mg-md text-center">
 								New logo and website for Atl + Gear -
 								Atlanta&rsquo;s best tech gear shop
-							</h3>
+							</p>
 							<p class="text-center">
 								Whenever I&rsquo;m wanting to improve my web
 								design skills, this shop inspires me.
@@ -344,19 +380,31 @@
 						<div class="col-sm-6">
 							<a
 								href="#"
-								data-lightbox="img/4.avif"
+								data-lightbox="img/4.webp"
 								data-gallery-id="gallery-1"
 								data-caption="Atlanta's legal website generates 30% more clients after web redesign"
 								data-frame="snapshot-lb"
-								><img
-									src="img/4.avif"
-									class="img-responsive portfolio-thumb"
-									alt="seo, google, website, internet, web design, Atlanta's legal website generates 30% more clients after web redesign"
-							/></a>
-							<h3 class="mg-md text-center">
+							>
+								<picture>
+									<source
+										media="(max-width:400px)"
+										srcset="img/4(1).webp"
+									/>
+									<source
+										media="(max-width:786px)"
+										srcset="img/4(2).webp"
+									/>
+									<img
+										src="img/4.webp"
+										class="img-responsive portfolio-thumb"
+										alt="seo, google, website, internet, web design, Atlanta's legal website generates 30% more clients after web redesign"
+									/>
+								</picture>
+							</a>
+							<p class="mg-md text-center">
 								Atlanta&rsquo;s legal new website - Generating
 								30% more law clients with a refresh&nbsp;
-							</h3>
+							</p>
 							<p class="text-center">
 								A few months ago, I created their new website
 								and it&rsquo;s bringing lots of leads.
@@ -374,9 +422,9 @@
 			>
 				<div class="container bloc-lg">
 					<div class="row">
-						<h2 class="mg-md text-center tc-white">
+						<p class="mg-md text-center tc-white">
 							Ready for a great website? <br />Let&rsquo;s design!
-						</h2>
+						</p>
 						<div class="col-sm-12 text-center">
 							<a
 								href="page2.html"

@@ -10,5 +10,7 @@
 [x]code splitting with boostrap (import partial library)
 []async/defer for cdns?
 [x]Remove sass
-[]Fontawesome cdn **only using fontawesome for social media icons, need to look into the et icons
+[x]Fontawesome cdn **only using fontawesome for social media icons, need to look into the et icons
 [x]Importing modules?
+[]remove all unused icons from et-line.css file
+[]output seo-lint results to json file, parse json data, present json data via chart, Pandas? JS?
