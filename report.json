@@ -1,0 +1,457 @@
+{
+  "success": false,
+  "meta": {
+    "whatLinksWhere": {
+      "index.html": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      ],
+      "page2.html": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      ],
+      "page2.html/": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "car.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "pizza.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "myroof.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "realestateseo.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "agencydirectory.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "seodirectory.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "marketingdirectory.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "123seo.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "123site.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "wordpressdirectory.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "agencylistatl.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "bestagencyatl.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "seolist.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "betterseo.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "yesseo.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "seojuicelink.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "bestlinks.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "linkalot.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "backlink.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "linkjuicedirectory.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "rankongoogle.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "trustedseo.com": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      ],
+      "undefined": [
+        "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      ]
+    }
+  },
+  "results": {
+    "orphanPages": [
+      "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\",
+      "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+    ],
+    "brokenInternalLinks": [
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "page2.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "page2.html/",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "page2.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "#",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "#",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "#",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "#",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "page2.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "car.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "pizza.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "myroof.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "realestateseo.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "agencydirectory.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "seodirectory.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "marketingdirectory.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "123seo.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "123site.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "wordpressdirectory.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "agencylistatl.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "bestagencyatl.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "seolist.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "betterseo.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "yesseo.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "seojuicelink.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "bestlinks.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "linkalot.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "backlink.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "linkjuicedirectory.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "rankongoogle.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "trustedseo.com",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      },
+      {
+        "link": "page2.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      },
+      {
+        "link": "index.html",
+        "linker": "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\page2.html"
+      }
+    ],
+    "E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\": [
+      {
+        "message": "Canonical should match absolute url and match the url that was crawled. host: | crawled: E:\\OneDrive\\Desktop\\openclassroom\\project 4\\code\\ | canonical: ./index.html",
+        "priority": 100,
+        "level": "errors"
+      },
+      {
+        "message": "H1 tag should have at least 1 word from your title tag.",
+        "priority": 70,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t](index.html) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [Home](index.html) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [page2](page2.html) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [Are you ready, contact me](page2.html) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [Contact](page2.html) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [](index.html) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [](index.html) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [](index.html) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [](index.html) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [car.com](car.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [pizza.com](pizza.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [myroof.com](myroof.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [realestateseo.com](realestateseo.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [agencydirectory.com](agencydirectory.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [seodirectory.com](seodirectory.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [marketingdirectory.com](marketingdirectory.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [123seo.com](123seo.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [123site.com](123site.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [wordpressdirectory.com](wordpressdirectory.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [agencylistatl.com](agencylistatl.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [bestagencyatl.com](bestagencyatl.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [seolist.com](seolist.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [betterseo.com](betterseo.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [yesseo.com](yesseo.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [seojuicelink.com](seojuicelink.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [bestlinks.com](bestlinks.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [linkalot.com](linkalot.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [backlink.com](backlink.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [linkjuicedirectory.com](linkjuicedirectory.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [rankongoogle.com](rankongoogle.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      },
+      {
+        "message": "Internal links should include a trailing slash: [trustedseo.com](trustedseo.com) does not.",
+        "priority": 80,
+        "level": "warnings"
+      }
+    ]
+  }
+}

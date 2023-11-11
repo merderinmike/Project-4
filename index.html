@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="Default">
+<html lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<meta
@@ -14,21 +14,27 @@
 			name="viewport"
 			content="width=device-width, initial-scale=1.0, viewport-fit=cover"
 		/>
-		<link rel="canonical" href="./index.html" />
+		<link rel="canonical" href="/" />
 		<link rel="shortcut icon" type="image/png" href="favicon.jpg" />
 
 		<!-- <link rel="stylesheet" type="text/css" href="./css/bootstrap.css" /> -->
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css"
+			integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu"
+			crossorigin="anonymous"
+		/>
 		<link rel="stylesheet" type="text/css" href="style.css" />
-		<link rel="stylesheet" type="text/css" href="./css/et-line.css" />
+		<link rel="stylesheet" type="text/css" href="css/et-line.css" />
 
 		<!--JQuery-->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-
 		<!-- Bootstrap -->
-		<link
-			rel="stylesheet"
-			href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
-		/>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js"
+			integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd"
+			crossorigin="anonymous"
+		></script>
 		<!-- Font Awesome -->
 		<script
 			src="https://kit.fontawesome.com/f06d1b7415.js"
@@ -91,7 +97,7 @@
 								</li>
 								<li></li>
 								<li>
-									<a href="page2.html">page2</a>
+									<a href="Contact.html">Contact</a>
 								</li>
 							</ul>
 						</div>
@@ -108,32 +114,18 @@
 				<div class="container bloc-lg">
 					<div class="row tight-width-whitespace">
 						<div class="col-sm-12">
-							<picture>
-								<source
-									media="(max-width:400px)"
-									srcset="
-										img/atlanta-web-designer-mike(1).webp
-									"
-								/>
-								<source
-									media="(max-width:768px)"
-									srcset="
-										img/atlanta-web-designer-mike(2).webp
-									"
-								/>
-								<img
-									src="img/atlanta-web-designer-mike.webp"
-									class="center-block image-resize-mode"
-									width="100"
-									alt="atlanta web designer mike,seo, google, website, internet, web design, design agency"
-								/>
-							</picture>
-							<h1 class="text-center hero-bloc-text tc-white">
+							<img
+								src="img/atlanta-web-designer-mike(1).webp"
+								class="center-block image-resize-mode"
+								width="100"
+								alt="atlanta web designer mike, seo, google, website, internet, web design, design agency"
+							/>
+							<h1 class="text-center hero-bloc-text">
 								I'm Mike.
 							</h1>
 							<div class="text-center">
 								<a
-									href="page2.html/"
+									href="Contact.html/"
 									class="btn btn-lg btn-clean btn-rd cta-hero btn-atomic-tangerine"
 									id="cta-hero"
 									>Contact</a
@@ -150,7 +142,7 @@
 				<div class="container bloc-md">
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<p class="title">
+							<p id="heading">
 								I create websites and design graphics that
 								help<br />
 								Atlanta companies become attractive and
@@ -230,13 +222,13 @@
 
 			<!-- bloc-3-what-i-do -->
 			<div
-				class="bloc tc-white bgc-atomic-tangerine bloc-bg-texture texture-paper b-parallax bg-atlanta-20made-20sign-20orange d-bloc"
+				class="bloc tc-grey-blue bgc-atomic-tangerine bloc-bg-texture texture-paper b-parallax bg-atlanta-20made-20sign-20orange d-bloc"
 				id="bloc-3-what-i-do"
 			>
 				<div class="container bloc-lg">
 					<div class="row tight-width-whitespace black-background">
 						<div class="col-sm-12">
-							<p class="mg-md text-center tc-white">
+							<p class="mg-md text-center ltc-white center-block">
 								I love Atlanta, my hometown, and want to see all
 								Atlanta businesses succeed. I help by offering
 								web design services that help local businesses
@@ -251,8 +243,8 @@
 								of your website, I&rsquo;ll work with you to
 								create something that looks great and structured
 								to be found on Google.<br /><br /><a
-									class="ltc-white bold-link"
-									href="page2.html"
+									class="bold-link"
+									href="Contact.html"
 									>Are you ready, contact me</a
 								><br />
 							</p>
@@ -270,7 +262,7 @@
 				<div class="container bloc-lg">
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<p>
+							<p class="heading-two">
 								Websites I've designed and developed for Atlanta
 								companies <br />
 								that resulted in more local business
@@ -281,31 +273,22 @@
 						<div class="col-sm-6">
 							<a
 								href="#"
-								data-lightbox="img/11.webp"
+								data-lightbox="img/dog.webp"
 								data-gallery-id="gallery-1"
 								data-caption="Website for Atlanta's Premiere dog salon"
 								data-frame="snapshot-lb"
 							>
-								<picture>
-									<source
-										media="(max-width:400px)"
-										srcset="img/11(1).webp"
-									/>
-									<source
-										media="(max-width:768px)"
-										srcset="img/11(2).webp"
-									/>
-									<img
-										src="img/11.webp"
-										class="img-responsive portfolio-thumb"
-										alt="seo, google, website, internet, web design, design agency website for dog salon"
-									/>
-								</picture>
+								<img
+									src="img/dog50.webp"
+									class="img-responsive portfolio-thumb"
+									alt="seo, google, website, internet, web design, design agency website for dog salon"
+								/>
 							</a>
-							<p class="mg-md text-center">
-								Website for Atlanta&rsquo;s premiere Dog Sitters
+							<p class="mg-md text-center img-caption">
+								Website for Atlanta&rsquo;s <br />
+								premiere Dog Sitters
 							</p>
-							<p class="text-center">
+							<p class="text-center img-text">
 								I love dogs and was super excited to make a
 								website for an Atlanta dog company.
 							</p>
@@ -318,26 +301,16 @@
 								data-caption="web redesign for the best cupcakes in Atlanta"
 								data-frame="snapshot-lb"
 							>
-								<picture>
-									<source
-										media="(max-width:400px)"
-										srcset="img/2(1).webp"
-									/>
-									<source
-										media="(max-width:768px )"
-										srcset="img/2(2).webp"
-									/>
-									<img
-										src="img/2.webp"
-										class="img-responsive portfolio-thumb"
-										alt="seo, google, website, internet, web design, design agency website for best cupcakes in atlanta"
-									/>
-								</picture>
+								<img
+									src="img/cupcake50.webp"
+									class="img-responsive portfolio-thumb"
+									alt="seo, google, website, internet, web design, design agency website for best cupcakes in atlanta"
+								/>
 							</a>
-							<p class="mg-md text-center">
+							<p class="mg-md text-center img-caption">
 								Web redesign for the best Atlanta&nbsp;cupcakes
 							</p>
-							<p class="text-center">
+							<p class="text-center img-text">
 								They make the best cupcakes in Atlanta and I
 								wanted to show this online.
 							</p>
@@ -347,32 +320,22 @@
 						<div class="col-sm-6">
 							<a
 								href="#"
-								data-lightbox="img/3.avif"
+								data-lightbox="img/camera.webp"
 								data-gallery-id="gallery-1"
 								data-caption="New logo and website for Atlanta's best tech gear shop"
 								data-frame="snapshot-lb"
 							>
-								<picture>
-									<source
-										media="(max-width:400px)"
-										srcset="img/3(1).webp"
-									/>
-									<source
-										media="(max-width:768px)"
-										srcset="img/3(2).webp"
-									/>
-									<img
-										src="img/3.webp"
-										class="img-responsive portfolio-thumb"
-										alt="3.jpg"
-									/>
-								</picture>
+								<img
+									src="img/camera50.webp"
+									class="img-responsive portfolio-thumb"
+									alt="3.jpg"
+								/>
 							</a>
-							<p class="mg-md text-center">
+							<p class="mg-md text-center img-caption">
 								New logo and website for Atl + Gear -
 								Atlanta&rsquo;s best tech gear shop
 							</p>
-							<p class="text-center">
+							<p class="text-center img-text">
 								Whenever I&rsquo;m wanting to improve my web
 								design skills, this shop inspires me.
 							</p>
@@ -380,32 +343,22 @@
 						<div class="col-sm-6">
 							<a
 								href="#"
-								data-lightbox="img/4.webp"
+								data-lightbox="img/smile.webp"
 								data-gallery-id="gallery-1"
 								data-caption="Atlanta's legal website generates 30% more clients after web redesign"
 								data-frame="snapshot-lb"
 							>
-								<picture>
-									<source
-										media="(max-width:400px)"
-										srcset="img/4(1).webp"
-									/>
-									<source
-										media="(max-width:786px)"
-										srcset="img/4(2).webp"
-									/>
-									<img
-										src="img/4.webp"
-										class="img-responsive portfolio-thumb"
-										alt="seo, google, website, internet, web design, Atlanta's legal website generates 30% more clients after web redesign"
-									/>
-								</picture>
+								<img
+									src="img/smile50.webp"
+									class="img-responsive portfolio-thumb"
+									alt="seo, google, website, internet, web design, Atlanta's legal website generates 30% more clients after web redesign"
+								/>
 							</a>
-							<p class="mg-md text-center">
+							<p class="mg-md text-center img-caption">
 								Atlanta&rsquo;s legal new website - Generating
 								30% more law clients with a refresh&nbsp;
 							</p>
-							<p class="text-center">
+							<p class="text-center img-text">
 								A few months ago, I created their new website
 								and it&rsquo;s bringing lots of leads.
 							</p>
@@ -422,12 +375,12 @@
 			>
 				<div class="container bloc-lg">
 					<div class="row">
-						<p class="mg-md text-center tc-white">
+						<p class="mg-md text-center ltc-white contact-caption">
 							Ready for a great website? <br />Let&rsquo;s design!
 						</p>
 						<div class="col-sm-12 text-center">
 							<a
-								href="page2.html"
+								href="Contact.html"
 								class="btn btn-atomic-tangerine btn-clean btn-rd btn-lg cta-hero"
 								>Contact</a
 							>
